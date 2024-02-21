@@ -54,7 +54,7 @@ export const Home = (props) => {
             <div className="info" style={{display:'contents'}} >
               <div>
                 <i className="bi bi-geo-alt"></i>
-                <p>Gavrila Principa 18, Beograd</p>
+                <p>Aleksandra Medvedeva 14, Nis</p>
               </div>
 
               <div>
@@ -64,7 +64,7 @@ export const Home = (props) => {
 
               <div>
                 <i className="bi bi-phone" ></i>
-                <p >+381 060 987 4567</p>
+                <p >+381 060 010 5729</p>
               </div>
             </div>
         </div>

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "iYJwAExJjqhGY9XWfm+h8eSGVcK35fYlRH2+5/C45As=",
+  "Source": "FindProfessor.WebApi",
+  "BasePath": "_content/FindProfessor.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nikol\\OneDrive\\Desktop\\Moji projekti\\FindProfessor\\FindProfessor\\Aplikacija\\Backend\\FindProfessor.WebApi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FindProfessor.WebApi.styles.css",
+      "SourceId": "FindProfessor.WebApi",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nikol\\OneDrive\\Desktop\\Moji projekti\\FindProfessor\\FindProfessor\\Aplikacija\\Backend\\FindProfessor.WebApi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/FindProfessor.WebApi",
+      "RelativePath": "FindProfessor.WebApi.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nikol\\OneDrive\\Desktop\\Moji projekti\\FindProfessor\\FindProfessor\\Aplikacija\\Backend\\FindProfessor.WebApi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FindProfessor.WebApi.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\nikol\\OneDrive\\Desktop\\Moji projekti\\FindProfessor\\FindProfessor\\Aplikacija\\Backend\\FindProfessor.WebApi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FindProfessor.WebApi.bundle.scp.css",
+      "SourceId": "FindProfessor.WebApi",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nikol\\OneDrive\\Desktop\\Moji projekti\\FindProfessor\\FindProfessor\\Aplikacija\\Backend\\FindProfessor.WebApi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/FindProfessor.WebApi",
+      "RelativePath": "FindProfessor.WebApi.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nikol\\OneDrive\\Desktop\\Moji projekti\\FindProfessor\\FindProfessor\\Aplikacija\\Backend\\FindProfessor.WebApi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FindProfessor.WebApi.bundle.scp.css"
+    }
+  ]
+}
